@@ -1,0 +1,75 @@
+div.dd-search-form input.bx-auth-input {vertical-align:middle;}
+div.dd-search-form input.bx-auth-input {
+    background: #d3d3d3;
+    box-shadow: inset 0 1px 2px 1px rgba(183,183,183,.7);
+    border-top: 1px solid #a3a3a3;
+    border-right: 1px solid #a3a3a3;
+    border-bottom: 1px solid #c2c2c2;
+    border-left: 1px solid #c2c2c2;
+    border-radius: 3px;
+    padding: 7px 7px 6px;
+    width: 200px;
+}
+
+.shop-networks {
+    margin-top: 40px;
+
+}
+
+#map_icons_mag ul {
+    list-style: none;
+    padding:0;
+}
+
+#map_icons_mag ul li {
+    float: left;
+    display: inline;
+}
+/*
+.drs_map_icons_sifon {
+    width: 34px;
+    height: 50px;
+    /background: url('/bitrix/templates/homebar/images/map-sprite-2.png') 0 0;
+}
+
+.drs_map_icons_syrop {
+    width: 46px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -35px 0;
+}
+
+.drs_map_icons_balon {
+    width: 29px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -80px 0;
+}
+
+.drs_map_icons_obmen {
+    width: 53px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -109px 0;
+}
+*/
+.drs_map_icons_sifon_active {
+    width: 34px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') 0 -51px;
+}
+
+.drs_map_icons_syrop_active {
+    width: 46px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -35px -51px;
+}
+
+.drs_map_icons_balon_active {
+    width: 29px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -80px -51px;
+}
+
+.drs_map_icons_obmen_active {
+    width: 53px;
+    height: 50px;
+    background: url('/bitrix/templates/homebar/images/map-sprite-2.png') -109px -51px;
+}
